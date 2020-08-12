@@ -217,3 +217,31 @@ header{
         font-size: 13px;
     }
 }
+@media screen and (max-width:506px){
+    .name p{
+           font-size: 27px;
+    }
+    img{
+  
+        border-radius: 50%;
+        width: 100px;
+        position: absolute;
+        top:108px;
+        right: 5px;
+      
+    }
+}
+@media screen and (max-width:341px){
+    .name p{
+           font-size: 24px;
+    }
+    img{
+  
+        border-radius: 50%;
+        width:88px;
+        position: absolute;
+        top:105px;
+        right: 5px;
+      
+    }
+}
